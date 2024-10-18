@@ -9,3 +9,7 @@ docker build -t learn_python .
 ```bash
 docker run -it --rm -v $(pwd)/notebooks:/notebooks -p 8888:8888  learn_python /bin/sh -c "jupyter lab --ip=0.0.0.0 --no-browser --allow-root"
 ```
+
+## Useful resources
+1. For visualization: https://pythontutor.com/
+2. Jupyter lab/notebook: for interactive experience.
