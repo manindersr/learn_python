@@ -1,6 +1,6 @@
 # Welcome to Python classes
 ## Docker setup
-1. install docker desktop
+1. install docker desktop: https://www.docker.com/products/docker-desktop/
 2. build image, run below command from root of this repo on your local computer:
 ```bash
 docker build -t learn_python .
