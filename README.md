@@ -13,3 +13,6 @@ docker run -it --rm -v $(pwd)/notebooks:/notebooks -p 8888:8888  learn_python /b
 ## Useful resources
 1. For visualization: https://pythontutor.com/
 2. Jupyter lab/notebook: for interactive experience.
+
+## Other docs:
+1. Github account setup: [Github account setup](docs/setup_github_account.md)
